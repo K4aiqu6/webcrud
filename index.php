@@ -48,7 +48,12 @@
 
                             <div>
                                 <button class="button is-block is-link is-large is-fullwidth" type="submit">Entrar</button>
-                            </div>                            
+                            </div>
+                            
+                            <div>
+                                <a href="recu.php">Recuperar senha</a>
+                            </div>
+                            
                             </form>
                     </div>
                 </div>
